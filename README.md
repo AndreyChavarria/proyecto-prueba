@@ -1,1 +1,1 @@
-# proyecto-prueba
+# primer-ejercicio
